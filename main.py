@@ -1,5 +1,7 @@
 import time
 from app import *
+from openal import *
+from util import *
 
 source = None
 

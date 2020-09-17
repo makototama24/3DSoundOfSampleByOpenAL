@@ -9,11 +9,11 @@ AUDIO_1 = 'create.wav'
 USE_AUDIO = './Music/wav_Sound/create.wav'
 
 # Write absolute path of the figure file
-FIGURE = ''
+FIGURE = 'figure1.png'
 
 WINDOW_WIDTH, WINDOW_HEIGHT = 650, 450
 WINDOW_TITLE = 'OpenAL Sample'
-WINDOW_INITSIZE = '350x250'
+WINDOW_INIT_SIZE = '350x250'
 
 COORDINATE_FONTSIZE = 20
 
